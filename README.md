@@ -1,1 +1,1 @@
-# 2048-game.github.io
+# 2048gamelol.github.io
